@@ -1,3 +1,4 @@
+// OpenCV Alpha Blending Tutorial modified for Face Morphing
 #include <cv.h>
 #include <highgui.h>
 #include <iostream>
